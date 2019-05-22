@@ -1,5 +1,4 @@
 node_modules/
-scss/
 package.json
 yarn.lock
 .browserslistrc
